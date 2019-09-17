@@ -33,7 +33,6 @@ public class Math_Test_Auto
 		map_Senior_high_school_teachers.put("王五1","123");
 		map_Senior_high_school_teachers.put("王五2","123");
 		map_Senior_high_school_teachers.put("王五3","123");
-		map_Senior_high_school_teachers.put("王五","123");
 	}
 	//输入的账号和密码在初始化集合中进行匹配，并返回1个整形数，0为匹配失败，1为小学账号，2为初中账号，3为高中账号
 	public static int Matching_User_Password(String username,String password) 
